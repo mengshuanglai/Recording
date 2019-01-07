@@ -22,3 +22,4 @@ In [7]: print(directory)
 In [8]: type(directory)
 IPython.utils.text.SList
 ```
+[文章链接](https://mp.weixin.qq.com/s/gkheK5b9mj8sdge0bISFlg)
