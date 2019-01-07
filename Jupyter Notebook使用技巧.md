@@ -1,4 +1,6 @@
-# 执行shell命令
+## [文章链接](https://mp.weixin.qq.com/s/gkheK5b9mj8sdge0bISFlg)
+conda install -c conda-forge jupyter_nbextensions_configurator
+## 执行shell命令
 
 Shell是一种与计算机进行文本交互的方式。
 
@@ -22,4 +24,4 @@ In [7]: print(directory)
 In [8]: type(directory)
 IPython.utils.text.SList
 ```
-[文章链接](https://mp.weixin.qq.com/s/gkheK5b9mj8sdge0bISFlg)
+
