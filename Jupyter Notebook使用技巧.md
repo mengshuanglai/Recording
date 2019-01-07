@@ -1,5 +1,20 @@
 ## [文章链接](https://mp.weixin.qq.com/s/gkheK5b9mj8sdge0bISFlg)
-conda install -c conda-forge jupyter_nbextensions_configurator
+```
+说明：为了实现在jupyter notebook中实现代码编写目录，尝试了很多安装方法，经过多次失败后，终于发现了问题所在，现总结下安装过程  
+.1，确定是已经安装好anaconda  
+2，要在anaconda prompt模式下
+
+3、pip install jupyter_contrib_nbextensions 
+
+4，配置：jupyter contrib nbextension install --user --skip-running-check
+
+  5，启动jupyter notebook，“Nbextensions”出现在导航栏中，在勾选目录。  
+--------------------- 
+作者：focusxy 
+来源：CSDN 
+原文：https://blog.csdn.net/qq_34705900/article/details/80197956 
+版权声明：本文为博主原创文章，转载请附上博文链接！
+```
 ## 执行shell命令
 
 Shell是一种与计算机进行文本交互的方式。
